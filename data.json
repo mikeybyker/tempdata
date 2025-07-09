@@ -1,0 +1,69 @@
+{
+"chapter": {
+"s-1jrayjvn4i8wqq8righ8h9ono-firsthalf": {
+"id": "s-1jrayjvn4i8wqq8righ8h9ono-firsthalf",
+"title": "First Half",
+"live_time": "2025-07-08T19:00:32.000Z",
+"thumbnail_url": "https://media-timelines.test.api.bbci.co.uk/statto-smp-plugin/thumbnails/football/womens-european-championship-2025/first-half.jpg",
+"duration": 2886
+},
+"s-1jrayjvn4i8wqq8righ8h9ono-halftime": {
+"id": "s-1jrayjvn4i8wqq8righ8h9ono-halftime",
+"title": "Half Time",
+"live_time": "2025-07-08T19:48:38.000Z",
+"thumbnail_url": "https://media-timelines.test.api.bbci.co.uk/statto-smp-plugin/thumbnails/football/womens-european-championship-2025/half-time.jpg",
+"duration": 900
+},
+"s-1jrayjvn4i8wqq8righ8h9ono-secondhalf": {
+"id": "s-1jrayjvn4i8wqq8righ8h9ono-secondhalf",
+"title": "Second Half",
+"live_time": "2025-07-08T20:03:38.000Z",
+"thumbnail_url": "https://media-timelines.test.api.bbci.co.uk/statto-smp-plugin/thumbnails/football/womens-european-championship-2025/second-half.jpg",
+"duration": 2943
+},
+"s-1jrayjvn4i8wqq8righ8h9ono-postmatch": {
+"id": "s-1jrayjvn4i8wqq8righ8h9ono-postmatch",
+"title": "Post Match Analysis",
+"live_time": "2025-07-08T20:52:41.000Z",
+"thumbnail_url": "https://media-timelines.test.api.bbci.co.uk/statto-smp-plugin/thumbnails/football/womens-european-championship-2025/post-match.jpg",
+"duration": 7200
+}
+},
+"moment": {
+"s-1jrayjvn4i8wqq8righ8h9ono-2826231251": {
+"id": "s-1jrayjvn4i8wqq8righ8h9ono-2826231251",
+"title": "28' SWE Goal",
+"live_time": "2025-07-08T19:27:35.000Z",
+"primary_description": "S. Blackstenius",
+"thumbnail_url": "https://media-timelines.test.api.bbci.co.uk/statto-smp-plugin/thumbnails/football/womens-european-championship-2025/goal.jpg"
+},
+"s-1jrayjvn4i8wqq8righ8h9ono-2826231301": {
+"id": "s-1jrayjvn4i8wqq8righ8h9ono-2826231301",
+"title": "30' SWE Yellow Card",
+"live_time": "2025-07-08T19:29:45.000Z",
+"primary_description": "K. Asllani",
+"thumbnail_url": "https://media-timelines.test.api.bbci.co.uk/statto-smp-plugin/thumbnails/football/womens-european-championship-2025/yellow-card.jpg"
+},
+"s-1jrayjvn4i8wqq8righ8h9ono-2826233527": {
+"id": "s-1jrayjvn4i8wqq8righ8h9ono-2826233527",
+"title": "52' SWE Goal",
+"live_time": "2025-07-08T20:09:51.000Z",
+"primary_description": "K. Asllani",
+"thumbnail_url": "https://media-timelines.test.api.bbci.co.uk/statto-smp-plugin/thumbnails/football/womens-european-championship-2025/goal.jpg"
+},
+"s-1jrayjvn4i8wqq8righ8h9ono-2826235325": {
+"id": "s-1jrayjvn4i8wqq8righ8h9ono-2826235325",
+"title": "77' SWE Goal",
+"live_time": "2025-07-08T20:35:00.000Z",
+"primary_description": "L. Hurtig",
+"thumbnail_url": "https://media-timelines.test.api.bbci.co.uk/statto-smp-plugin/thumbnails/football/womens-european-championship-2025/goal.jpg"
+},
+"s-1jrayjvn4i8wqq8righ8h9ono-2826236049": {
+"id": "s-1jrayjvn4i8wqq8righ8h9ono-2826236049",
+"title": "89' POL Yellow Card",
+"live_time": "2025-07-08T20:46:40.000Z",
+"primary_description": "E. Szymczak",
+"thumbnail_url": "https://media-timelines.test.api.bbci.co.uk/statto-smp-plugin/thumbnails/football/womens-european-championship-2025/yellow-card.jpg"
+}
+}
+}
